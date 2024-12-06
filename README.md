@@ -1,6 +1,2 @@
-# Basic Restaurant Billing System
-A simple Python program for managing restaurant billing. This system allows users to select menu items, calculate the total bill, and provide a summary of the order.
-## Features:
-- Interactive menu for order placement.
-- Automatic bill calculation.
-- Easy to customize for any restaurant.
+# Visualize with Matplotlib
+A comprehensive collection of examples and functionalities of matplotlib. This repository covers the basics of creating various types of plots and visualizations, from line charts to bar graphs and scatter plots. Ideal for beginners and data visualization enthusiasts looking to master the art of data representation using matplotlib in Python.
